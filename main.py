@@ -1,5 +1,5 @@
 def fun():
-    for i in range(60):
+    for i in range(100):
         print(i)
 
 
